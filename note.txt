@@ -1,0 +1,13 @@
+Chọn tìm kiếm theo phòng máy
+Hiện form nhập thông tin tìm kiếm
+Nhập thông tin
+Kiểm tra dữ liêu nhập
+Kiểm tra dữ liệu
+Hệ thống hiện danh sách thông tin phòng
+Thông báo không tìm thấy
+Xác nhận
+Kết thúc
+
+Giao diện hệ thống
+Điều kiện
+Quan lý phòng máy
